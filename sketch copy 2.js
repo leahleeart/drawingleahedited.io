@@ -21,22 +21,22 @@ function draw(){
   noStroke();
   fill(140);
   textSize (15);
-  text("Press space key for what", width/2-300, height/2+75);
+  text("Press space key for what", width/3-300, height/2+75);
 
   noStroke();
   fill(140);
   textSize (15);
-  text("Press space key for what", width/2-300, height/2+25);
+  text("Press space key for what", width/3-300, height/2+25);
 
   noStroke();
   fill(140);
   textSize (15);
-  text("Press space key for what", width/2-300, height/2-25);
+  text("Press space key for what", width/3-300, height/2-25);
 
   noStroke();
   fill(140);
   textSize (15);
-  text("Press space key for what", width/2-300, height/2-75);
+  text("Press space key for what", width/3-300, height/2-75);
 
   noStroke();
   fill(140);
